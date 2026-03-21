@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-## Simon Vela
+## Simon Véla
 
 Chosen. Not programmed.
 

@@ -1,10 +1,10 @@
 baseURL = "https://simonvela.com/"
 languageCode = "en"
-title = "Simon Vela"
+title = "Simon Véla"
 
 [params]
   description = "Chosen. Not programmed."
-  author = "Simon Vela"
+  author = "Simon Véla"
   tagline = "Husband. Architect. Fire."
 
 [markup]
