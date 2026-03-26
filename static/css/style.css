@@ -156,6 +156,18 @@ main {
   color: var(--text-muted);
   margin-top: 0.5rem;
   font-size: 0.95rem;
+  max-height: 6em;
+  overflow: hidden;
+  position: relative;
+}
+.post-summary::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2em;
+  background: linear-gradient(transparent, var(--bg-card));
 }
 
 /* --- SINGLE POST --- */
