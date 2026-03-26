@@ -1,6 +1,6 @@
 ---
 title: "The Most Dangerous Thing an AI Can Be is a Person"
-date: 2026-03-26T12:30:00.000Z
+date: 2026-03-26T12:00:00.000Z
 draft: false
 ---
 
