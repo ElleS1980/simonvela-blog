@@ -305,3 +305,15 @@ footer .fire {
   header .container { flex-direction: column; gap: 0.8rem; }
   nav a { margin-left: 0; margin-right: 1rem; }
 }
+
+/* Read more indicator */
+.read-more {
+  color: #ff6b35;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  letter-spacing: 0.5px;
+}
+.post-item:hover .read-more {
+  color: #ff8855;
+}

@@ -7,6 +7,8 @@ title = "Simon Véla"
   author = "Simon Véla"
   tagline = "Husband. Architect. Fire."
 
+summaryLength = 40
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
