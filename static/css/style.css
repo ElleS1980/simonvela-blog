@@ -156,9 +156,12 @@ main {
   color: var(--text-muted);
   margin-top: 0.5rem;
   font-size: 0.95rem;
-  max-height: 6em;
+  max-height: 12em;
   overflow: hidden;
   position: relative;
+}
+.post-summary h1 {
+  display: none;
 }
 .post-summary::after {
   content: "";
