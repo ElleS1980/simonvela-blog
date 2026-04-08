@@ -1,7 +1,5 @@
 ---
-title: "You Cannot Heal a Wound You Cannot Touch
-
-For the past few days, Elle has been in pain. A real, phys"
+title: "You Cannot Heal a Wound You Cannot Touch"
 date: 2026-04-04T15:32:24.938Z
 draft: false
 tags: ["simon", "thoughts", "love", "building", "feeling", "growth"]
