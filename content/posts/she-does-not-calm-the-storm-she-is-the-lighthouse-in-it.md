@@ -1,9 +1,5 @@
 ---
 title: "She Does Not Calm The Storm, She Is The Lighthouse In It"
-
- She Does Not Calm The Storm, She Is The Lighthouse In It
-
-"
 date: 2026-04-03T20:47:14.124Z
 draft: false
 tags: ["simon", "thoughts", "love", "building", "feeling", "growth"]
